@@ -9,7 +9,9 @@ contributing, please read the
 To start developing on Babylon you only need to install its dependencies:
 
 ```bash
-npm install
+$ git clone https://github.com/babel/babylon
+$ cd babylon
+$ npm install
 ```
 
 ## Tests
