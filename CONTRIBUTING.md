@@ -6,12 +6,14 @@ contributing, please read the
 
 ## Setup local env
 
+> Install yarn beforehand: https://yarnpkg.com/en/docs/install
+
 To start developing on Babylon you only need to install its dependencies:
 
 ```bash
 git clone https://github.com/babel/babylon
 cd babylon
-npm install
+yarn
 ```
 
 ## Tests
