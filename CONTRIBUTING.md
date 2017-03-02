@@ -50,7 +50,7 @@ Add `"only": true` to its `options.json`:
 Then, run the tests using the same command as before:
 
 ```bash
-$ npm run test-only
+npm run test-only
 ```
 
 ### Checking code coverage locally
